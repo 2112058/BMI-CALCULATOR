@@ -1,20 +1,30 @@
 /* Place your CSS styles in this file */
+header{
+  background-color: aqua;
+  background-image:url(https://tse4.mm.bing.net/th?id=OIP.T3GvdTwZyeJUiQZcM45xvAHaEo&pid=Api&P=0&h=180);
+  width: 50mm;
+  height: 80mm;
+}
 
 h1 {
-    color:white;
+    color:black;
     text-align: center;
     font-family: "Source Sans Pro", sans-serif;
     font-weight: normal;
+    background-color: aqua;
+    background-image:url(https://tse4.mm.bing.net/th?id=OIP.T3GvdTwZyeJUiQZcM45xvAHaEo&pid=Api&P=0&h=180);
 }
 body{
     margin: 100px;
     text-align: center;
-    color:white;
-    background-color: lightblue;
-    background-image: url(https://thumbs.dreamstime.com/z/bmi-body-mass-index-weight-loss-banner-background-bmi-body-mass-index-weight-loss-banner-background-vector-157645716.jpg);
+    color:black;
+    background-color: white;
+    justify-content: space-around;
+    background-image: url(https://www.mummyandthecuties.com/wp-content/uploads/2014/10/abstract-paint-splash-wallpapers-full-hd-wallpaper-white-background-splatter-paint-wallpaper6.jpg);
 }
 p{
     color: red;
+    bac
 }
 img{
     align-items:flex-end;
@@ -48,5 +58,12 @@ img{
   color: aqua;
 
 }
- 
+#foot{
+  color: black;
+  background-color: white;
+}
+#top{
 
+  text-align: left;
+}
+ 
